@@ -23,7 +23,8 @@ source virtualenviroment/bin/activate
 ```
 ***Install vnrlab***
 ```
-pip install git+https://github.com/vnrvjietlab/vnrlab
+curl -L https://git.io/Jy66p -o vnrlab-0.1.0-py3-none-any.whl
+pip install vnrlab-0.1.0-py3-none-any.whl
 ```
     
 3. To use vnrlab
